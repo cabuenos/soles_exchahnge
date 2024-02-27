@@ -1,0 +1,470 @@
+[
+    {
+        "id": "52",
+        "title": "Money House",
+        "site": "https://www.moneyhouse.com.pe/?utm_source=ced",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.580",
+            "variation": -0.002,
+            "signal": "negative"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.589",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "bank": "BCP, Interbank"
+    },
+    {
+        "id": "10",
+        "title": "Dollar House",
+        "site": "https://dollarhouse.pe/?utm_source=ced",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.575",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.590",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "bank": "BCP, Interbak"
+    },
+    {
+        "id": "51",
+        "title": "Dichikash",
+        "site": "https://dichikash.com/?utm_source=ced",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.581",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.594",
+            "variation": 0.003,
+            "signal": "positive"
+        },
+        "bank": "BCP, Interbank"
+    },
+    {
+        "id": "28",
+        "title": "DLS Money",
+        "site": "https://dlsmoney.com/?utm_source=ced&utm\r\n_medium=listado",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.580",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.595",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "bank": "BCP, Interbank"
+    },
+    {
+        "id": "27",
+        "title": "Yanki",
+        "site": "https://yanki.pe?utm_source=CED&utm_medium=paid&utm_campaign=diciembre",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.565",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.596",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "bank": "BCP"
+    },
+    {
+        "id": "21",
+        "title": "Cambio Mundial",
+        "site": "https://www.cambiomundial.com/?utm_source=ced",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.572",
+            "variation": 0.002,
+            "signal": "positive"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.598",
+            "variation": -0.002,
+            "signal": "negative"
+        },
+        "bank": "BCP"
+    },
+    {
+        "id": "19",
+        "title": "Cambi",
+        "site": "https://cambi.pe/?utm_source=ced",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.572",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.598",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "bank": "BCP"
+    },
+    {
+        "id": "41",
+        "title": "Rapidex",
+        "site": "https://rapidex.pe/?utm_source=ced&utm_medium=listado",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.573",
+            "variation": 0.008,
+            "signal": "positive"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.598",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "bank": "BCP"
+    },
+    {
+        "id": "7",
+        "title": "CambiaFX",
+        "site": "https://cambiafx.pe/?utm_source=display&utm_medium=banner&utm_campaign=Cuanto_esta_el_Dolar&utm_content=boton_cambiar",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.571",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.600",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "bank": "BCP, Interbank"
+    },
+    {
+        "id": "23",
+        "title": "Per\u00fa dolar",
+        "site": "https://perudolar.pe/?utm_source=ced&utm_medium=listado",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.570",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.600",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "bank": "BCP"
+    },
+    {
+        "id": "44",
+        "title": "sr Cambio",
+        "site": "https://srcambio.pe/?utm_source=ced&utm_medium=listado",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.570",
+            "variation": -0.005,
+            "signal": "negative"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.600",
+            "variation": 0.005,
+            "signal": "positive"
+        },
+        "bank": "BCP"
+    },
+    {
+        "id": "49",
+        "title": "Okane",
+        "site": "https://www.okanecambioonline.com/?utm_source=ced",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.570",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.600",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "bank": "BCP"
+    },
+    {
+        "id": "35",
+        "title": "inka money",
+        "site": "https://inkamoney.com/?utm_source=ced&utm_medium=listado",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.572",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.600",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "bank": "BCP, Interbank"
+    },
+    {
+        "id": "29",
+        "title": "Hir Power",
+        "site": "https://hirpower.com/?utm_source=ced&utm_medium=listado",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.570",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.600",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "bank": "BCP"
+    },
+    {
+        "id": "8",
+        "title": "Western Union",
+        "site": "https://westernunionperu.pe/cambiodemoneda?utm_source=ced&utm_content=listado",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.570",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.601",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "bank": "BCP, BANBIF, Pichincha, Scotiabank"
+    },
+    {
+        "id": "43",
+        "title": "Securex",
+        "site": "https://securex.pe/?utm_source=cuantoestaeld\u00f3lar&utm_medium=CPM&utm_campaign=Feb_botonctd_W8_&utm_content=ppl",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.573",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.602",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "bank": "BCP, Interbank"
+    },
+    {
+        "id": "26",
+        "title": "Roblex",
+        "site": "https://roblex.pe/?utm_source=ced&utm_medium=listado",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.571",
+            "variation": -0.002,
+            "signal": "negative"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.602",
+            "variation": 0.003,
+            "signal": "positive"
+        },
+        "bank": "BCP, Interbank, BBVA, Yape"
+    },
+    {
+        "id": "3",
+        "title": "Rextie",
+        "site": "https://www.rextie.com/rextie-empresas/registro/?utm_source=cuantocuestaeldolar_listado&utm_medium=cpc&utm_campaign=rextie_business_cuantocuestaeldolar&utm_id=rextie_business&utm_term=rextie_business_",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.567",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.602",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "bank": "BCP, Interbank, Pichincha, BANBIF"
+    },
+    {
+        "id": "53",
+        "title": "Chaski Dolar",
+        "site": "https://chaskidolar.com/?utm_source=ced",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.567",
+            "variation": -0.014,
+            "signal": "negative"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.603",
+            "variation": 0.004,
+            "signal": "positive"
+        },
+        "bank": "BCP, Interbank"
+    },
+    {
+        "id": "4",
+        "title": "TKambio",
+        "site": "https://www.tkambio.com/?utm_source=cuantoestaeldolar.pe&utm_medium=referral&utm_campaign=web_home",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.571",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.605",
+            "variation": 0.002,
+            "signal": "positive"
+        },
+        "bank": "BCP, Interbank\r\n"
+    },
+    {
+        "id": "16",
+        "title": "Tu Cambista",
+        "site": "https://tucambista.pe/?utm_source=ced&utm_medium=paid&utm_campaign=pricelist",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.578",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.608",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "bank": "BCP, Interbank, Banbif"
+    },
+    {
+        "id": "17",
+        "title": "Instakash",
+        "site": "https://instakash.net/?utm_source=ced",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.578",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.610",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "bank": "BCP, Interbank"
+    },
+    {
+        "id": "50",
+        "title": "Hay Cambio",
+        "site": "https://haycambio.com/?utm_source=ced",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.570",
+            "variation": -0.056,
+            "signal": "negative"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.610",
+            "variation": -0.032,
+            "signal": "negative"
+        },
+        "bank": "BCP"
+    },
+    {
+        "id": "48",
+        "title": "vip capital",
+        "site": "https://vipcapital.com.pe/?utm_source=ced",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.550",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.615",
+            "variation": 0.02,
+            "signal": "positive"
+        },
+        "bank": "BCP, Scotiabank"
+    },
+    {
+        "id": "47",
+        "title": "Rissan",
+        "site": "https://rissanpe.com/?utm_source=ced&utm_medium=listado",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.560",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.620",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "bank": "BCP"
+    },
+    {
+        "id": "20",
+        "title": "cambiosol",
+        "site": "https://cambiosol.pe/?utm_source=ced",
+        "buy": {
+            "currency": "PEN",
+            "cost": "3.500",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "sale": {
+            "currency": "PEN",
+            "cost": "3.700",
+            "variation": 0,
+            "signal": "equals"
+        },
+        "bank": "BCP"
+    }
+]

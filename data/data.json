@@ -1,0 +1,2450 @@
+{
+    "props": {
+        "pageProps": {
+            "pageView": 0,
+            "menu": [
+                {
+                    "id": "1",
+                    "name": "Casas de cambio",
+                    "path": "/directorio5"
+                },
+                {
+                    "id": "2",
+                    "name": "Cambio online",
+                    "path": "/cambio-de-dolar-online"
+                },
+                {
+                    "id": "3",
+                    "name": "Variaci\u00f3n",
+                    "path": "/historial"
+                },
+                {
+                    "id": "4",
+                    "name": "Calcular",
+                    "path": "/calcular"
+                },
+                {
+                    "id": "5",
+                    "name": "Noticias",
+                    "path": "https://blog.cuantoestaeldolar.pe/"
+                },
+                {
+                    "id": "6",
+                    "name": "Servicios",
+                    "path": "/servicios"
+                },
+                {
+                    "id": "7",
+                    "name": "Videos",
+                    "path": "https://blog.cuantoestaeldolar.pe/tag/videos/"
+                }
+            ],
+            "onlineExchangeHouses": [
+                {
+                    "id": "8",
+                    "title": "Western Union",
+                    "height": "40",
+                    "width": "128",
+                    "img": "img/logo/western-union.svg",
+                    "description": "Contamos con mas de 150 a\u00f1os de experiencia  Ven y unete a la nueva forma de cambiar tus D\u00f3lares con nosotros",
+                    "color": "#000",
+                    "site": "https://westernunionperu.pe/cambiodemoneda?utm_source=ced&utm_content=listado",
+                    "path": "western-union",
+                    "order": "1",
+                    "bank": "BCP, BANBIF, Pichincha, Scotiabank",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.570",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.601",
+                            "variation": 0,
+                            "signal": "equals"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 5:30 pm",
+                        "Saturdays": "",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "14",
+                    "title": "Cambix",
+                    "height": "48",
+                    "width": "128",
+                    "img": "img/logo/cambix.svg",
+                    "description": "",
+                    "color": "#4628AD",
+                    "site": "https://cambix.com.pe/?utm_medium=referral&utm_source=cuantoestaeldolar&utm_campaign=conversion&utm_content=lead&utm_term=lista\r\n",
+                    "path": "cambix",
+                    "order": "2",
+                    "bank": "Banco de Comercio, Todos los bancos (interbancario)",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.575",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.595",
+                            "variation": 0.005,
+                            "signal": "positive"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "8 am - 6 pm",
+                        "Saturdays": "8 am - 6 pm",
+                        "Sundays": "8 am - 6 pm"
+                    }
+                },
+                {
+                    "id": "10",
+                    "title": "Dollar House",
+                    "height": "48",
+                    "width": "128",
+                    "img": "img/logo/dollar-house-v2.svg",
+                    "description": "Compra y vende d\u00f3lares al tipo de cambio m\u00e1s bajo del mercado",
+                    "color": "#fe8e01",
+                    "site": "https://dollarhouse.pe/?utm_source=ced",
+                    "path": "dollar-house",
+                    "order": "3",
+                    "bank": "BCP, Interbak",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.575",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.590",
+                            "variation": 0,
+                            "signal": "equals"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 7 pm",
+                        "Saturdays": "10 am - 1pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "16",
+                    "title": "Tu Cambista",
+                    "height": "48",
+                    "width": "128",
+                    "img": "img/logo/tu-cambista.svg",
+                    "description": "",
+                    "color": "#efc52e",
+                    "site": "https://tucambista.pe/?utm_source=ced&utm_medium=paid&utm_campaign=pricelist",
+                    "path": "tu-cambista",
+                    "order": "4",
+                    "bank": "BCP, Interbank, Banbif",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.578",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.608",
+                            "variation": 0,
+                            "signal": "equals"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "8 am - 8 pm",
+                        "Saturdays": "9 am - 3 pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "7",
+                    "title": "CambiaFX",
+                    "height": "48",
+                    "width": "128",
+                    "img": "img/logo/cambiafx_v2.svg",
+                    "description": "Cambia tus d\u00f3lares al mejor tipo de cambio",
+                    "color": "#6362fb",
+                    "site": "https://cambiafx.pe/?utm_source=display&utm_medium=banner&utm_campaign=Cuanto_esta_el_Dolar&utm_content=boton_cambiar",
+                    "path": "cambia-fx",
+                    "order": "5",
+                    "bank": "BCP, Interbank",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.571",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.600",
+                            "variation": 0,
+                            "signal": "equals"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 7pm",
+                        "Saturdays": "10 am - 1 pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "17",
+                    "title": "Instakash",
+                    "height": "25",
+                    "width": "117",
+                    "img": "img/logo/instakash_v2.svg",
+                    "description": "",
+                    "color": "#496e84",
+                    "site": "https://instakash.net/?utm_source=ced",
+                    "path": "instakash",
+                    "order": "6",
+                    "bank": "BCP, Interbank",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.578",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.610",
+                            "variation": 0,
+                            "signal": "equals"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 7 pm",
+                        "Saturdays": "9 am - 2 pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "20",
+                    "title": "cambiosol",
+                    "height": "48",
+                    "width": "128",
+                    "img": "img/logo/cambiosol.svg",
+                    "description": "",
+                    "color": "#1e29ae",
+                    "site": "https://cambiosol.pe/?utm_source=ced",
+                    "path": "cambiosol",
+                    "order": "7",
+                    "bank": "BCP",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.500",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.700",
+                            "variation": 0,
+                            "signal": "equals"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 6 pm",
+                        "Saturdays": "9 am a 1 pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "21",
+                    "title": "Cambio Mundial",
+                    "height": "48",
+                    "width": "128",
+                    "img": "img/logo/cambiomundial-2.svg",
+                    "description": "",
+                    "color": "#02a702",
+                    "site": "https://www.cambiomundial.com/?utm_source=ced",
+                    "path": "cambiomundial",
+                    "order": "8",
+                    "bank": "BCP",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.572",
+                            "variation": 0.002,
+                            "signal": "positive"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.598",
+                            "variation": -0.002,
+                            "signal": "negative"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 6 pm",
+                        "Saturdays": "9 am - 1:00 pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "23",
+                    "title": "Per\u00fa dolar",
+                    "height": "48",
+                    "width": "128",
+                    "img": "img/logo/perudolar.svg",
+                    "description": "",
+                    "color": "#1e29ae",
+                    "site": "https://perudolar.pe/?utm_source=ced&utm_medium=listado",
+                    "path": "perudolar",
+                    "order": "9",
+                    "bank": "BCP",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.570",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.600",
+                            "variation": 0,
+                            "signal": "equals"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 4 pm",
+                        "Saturdays": "-",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "27",
+                    "title": "Yanki",
+                    "height": "52",
+                    "width": "138",
+                    "img": "img/logo/yanki.svg",
+                    "description": "",
+                    "color": "#19d375",
+                    "site": "https://yanki.pe?utm_source=CED&utm_medium=paid&utm_campaign=diciembre",
+                    "path": "yanki",
+                    "order": "10",
+                    "bank": "BCP",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.565",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.596",
+                            "variation": 0,
+                            "signal": "equals"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 7 pm",
+                        "Saturdays": "9 am - 2 pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "51",
+                    "title": "Dichikash",
+                    "height": "32",
+                    "width": "147",
+                    "img": "img/logo/dichikash.svg",
+                    "description": "",
+                    "color": "#0B2057",
+                    "site": "https://dichikash.com/?utm_source=ced",
+                    "path": "dichikash",
+                    "order": "11",
+                    "bank": "BCP, Interbank",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.581",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.594",
+                            "variation": 0.003,
+                            "signal": "positive"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 7pm",
+                        "Saturdays": "9 am - 7 pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "44",
+                    "title": "sr Cambio",
+                    "height": "48",
+                    "width": "150",
+                    "img": "img/logo/sr-cambio.png",
+                    "description": "",
+                    "color": "#3aa229",
+                    "site": "https://srcambio.pe/?utm_source=ced&utm_medium=listado",
+                    "path": "sr-cambio",
+                    "order": "12",
+                    "bank": "BCP",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.570",
+                            "variation": -0.005,
+                            "signal": "negative"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.600",
+                            "variation": 0.005,
+                            "signal": "positive"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 6pm",
+                        "Saturdays": "9 am - 1pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "49",
+                    "title": "Okane",
+                    "height": "48",
+                    "width": "100",
+                    "img": "img/logo/okane.svg",
+                    "description": "",
+                    "color": "#000e8d",
+                    "site": "https://www.okanecambioonline.com/?utm_source=ced",
+                    "path": "okane",
+                    "order": "13",
+                    "bank": "BCP",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.570",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.600",
+                            "variation": 0,
+                            "signal": "equals"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 6pm",
+                        "Saturdays": "9 am - 2 pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "52",
+                    "title": "Money House",
+                    "height": "42",
+                    "width": "115",
+                    "img": "img/logo/money_house.svg",
+                    "description": "",
+                    "color": "#2780e3",
+                    "site": "https://www.moneyhouse.com.pe/?utm_source=ced",
+                    "path": "moneyhouse",
+                    "order": "14",
+                    "bank": "BCP, Interbank",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.580",
+                            "variation": -0.002,
+                            "signal": "negative"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.589",
+                            "variation": 0,
+                            "signal": "equals"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "8 am - 7 pm ",
+                        "Saturdays": "9 am - 1 pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "43",
+                    "title": "Securex",
+                    "height": "48",
+                    "width": "128",
+                    "img": "img/logo/securex-2.svg",
+                    "description": "",
+                    "color": "#2375e1",
+                    "site": "https://securex.pe/?utm_source=cuantoestaeld\u00f3lar&utm_medium=CPM&utm_campaign=Feb_botonctd_W8_&utm_content=ppl",
+                    "path": "securex",
+                    "order": "15",
+                    "bank": "BCP, Interbank",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.573",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.602",
+                            "variation": 0,
+                            "signal": "equals"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 7 pm",
+                        "Saturdays": "9 am - 2 pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "35",
+                    "title": "inka money",
+                    "height": "48",
+                    "width": "128",
+                    "img": "img/logo/inkamoney.svg",
+                    "description": "",
+                    "color": "#8500ff",
+                    "site": "https://inkamoney.com/?utm_source=ced&utm_medium=listado",
+                    "path": "inkamoney",
+                    "order": "16",
+                    "bank": "BCP, Interbank",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.572",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.600",
+                            "variation": 0,
+                            "signal": "equals"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 6:30 pm",
+                        "Saturdays": "9 am - 1 pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "28",
+                    "title": "DLS Money",
+                    "height": "48",
+                    "width": "128",
+                    "img": "img/logo/dlsmoney.svg",
+                    "description": "",
+                    "color": "#f29221",
+                    "site": "https://dlsmoney.com/?utm_source=ced&utm\r\n_medium=listado",
+                    "path": "dlsmoney",
+                    "order": "17",
+                    "bank": "BCP, Interbank",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.580",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.595",
+                            "variation": 0,
+                            "signal": "equals"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 7 pm",
+                        "Saturdays": "9 AM - 1pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "29",
+                    "title": "Hir Power",
+                    "height": "48",
+                    "width": "128",
+                    "img": "img/logo/hirpower.svg",
+                    "description": "",
+                    "color": "#24692e",
+                    "site": "https://hirpower.com/?utm_source=ced&utm_medium=listado",
+                    "path": "hirpower",
+                    "order": "18",
+                    "bank": "BCP",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.570",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.600",
+                            "variation": 0,
+                            "signal": "equals"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "8 am - 8 pm",
+                        "Saturdays": "8 am - 2 pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "26",
+                    "title": "Roblex",
+                    "height": "48",
+                    "width": "128",
+                    "img": "img/logo/roblex.svg",
+                    "description": "",
+                    "color": "#041a90",
+                    "site": "https://roblex.pe/?utm_source=ced&utm_medium=listado",
+                    "path": "roblex",
+                    "order": "19",
+                    "bank": "BCP, Interbank, BBVA, Yape",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.571",
+                            "variation": -0.002,
+                            "signal": "negative"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.602",
+                            "variation": 0.003,
+                            "signal": "positive"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 6:30 pm",
+                        "Saturdays": "9 am - 1:30 pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "4",
+                    "title": "TKambio",
+                    "height": "48",
+                    "width": "128",
+                    "img": "img/logo/tkambio.svg",
+                    "description": "TKambio, es una plataforma que busca mejorar la forma en que se realizan las operaciones                     de cambio de moneda actualmente, optimizando los tiempos y minimizando los peligros que implican el                     traslado de dinero.",
+                    "color": "#52c1ff",
+                    "site": "https://www.tkambio.com/?utm_source=cuantoestaeldolar.pe&utm_medium=referral&utm_campaign=web_home",
+                    "path": "tkambio",
+                    "order": "21",
+                    "bank": "BCP, Interbank\r\n",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.571",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.605",
+                            "variation": 0.002,
+                            "signal": "positive"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9am - 7pm",
+                        "Saturdays": "9 am - 2 pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "19",
+                    "title": "Cambi",
+                    "height": "48",
+                    "width": "128",
+                    "img": "img/logo/cambi-2.svg",
+                    "description": "",
+                    "color": "#08a2b4",
+                    "site": "https://cambi.pe/?utm_source=ced",
+                    "path": "cambi",
+                    "order": "22",
+                    "bank": "BCP",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.572",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.598",
+                            "variation": 0,
+                            "signal": "equals"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 6 pm",
+                        "Saturdays": "9 am a 1 pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "47",
+                    "title": "Rissan",
+                    "height": "48",
+                    "width": "128",
+                    "img": "img/logo/Rissan.svg",
+                    "description": "",
+                    "color": "#045c1c",
+                    "site": "https://rissanpe.com/?utm_source=ced&utm_medium=listado",
+                    "path": "rissan",
+                    "order": "23",
+                    "bank": "BCP",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.560",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.620",
+                            "variation": 0,
+                            "signal": "equals"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 6pm",
+                        "Saturdays": "9 am - 1pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "48",
+                    "title": "vip capital",
+                    "height": "48",
+                    "width": "128",
+                    "img": "img/logo/vip-capital.png",
+                    "description": "",
+                    "color": "#6e34aa",
+                    "site": "https://vipcapital.com.pe/?utm_source=ced",
+                    "path": "vip-capital",
+                    "order": "24",
+                    "bank": "BCP, Scotiabank",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.550",
+                            "variation": 0,
+                            "signal": "equals"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.615",
+                            "variation": 0.02,
+                            "signal": "positive"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 6pm",
+                        "Saturdays": "9 am - 1pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "50",
+                    "title": "Hay Cambio",
+                    "height": "48",
+                    "width": "128",
+                    "img": "img/logo/hay-cambio.svg",
+                    "description": "",
+                    "color": "#CC2D18",
+                    "site": "https://haycambio.com/?utm_source=ced",
+                    "path": "haycambio",
+                    "order": "25",
+                    "bank": "BCP",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.570",
+                            "variation": -0.056,
+                            "signal": "negative"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.610",
+                            "variation": -0.032,
+                            "signal": "negative"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 6 pm",
+                        "Saturdays": "9 am - 1 pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "41",
+                    "title": "Rapidex",
+                    "height": "48",
+                    "width": "128",
+                    "img": "img/logo/rapidex.svg",
+                    "description": "",
+                    "color": "#678129",
+                    "site": "https://rapidex.pe/?utm_source=ced&utm_medium=listado",
+                    "path": "rapidex",
+                    "order": "33",
+                    "bank": "BCP",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.573",
+                            "variation": 0.008,
+                            "signal": "positive"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.598",
+                            "variation": 0,
+                            "signal": "equals"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 7 pm",
+                        "Saturdays": "9 am - 1 pm",
+                        "Sundays": ""
+                    }
+                },
+                {
+                    "id": "53",
+                    "title": "Chaski Dolar",
+                    "height": "52",
+                    "width": "165",
+                    "img": "img/logo/chaskiv2.svg",
+                    "description": "",
+                    "color": "#00AADC",
+                    "site": "https://chaskidolar.com/?utm_source=ced",
+                    "path": "chankidolar",
+                    "order": "34",
+                    "bank": "BCP, Interbank",
+                    "rates": {
+                        "buy": {
+                            "currency": "PEN",
+                            "cost": "3.567",
+                            "variation": -0.014,
+                            "signal": "negative"
+                        },
+                        "sale": {
+                            "currency": "PEN",
+                            "cost": "3.603",
+                            "variation": 0.004,
+                            "signal": "positive"
+                        }
+                    },
+                    "schedule": {
+                        "M-F": "9 am - 6 pm",
+                        "Saturdays": "9 am - 12:30 pm",
+                        "Sundays": ""
+                    }
+                }
+            ],
+            "configCalculator": true,
+            "exchangeSunat": {
+                "buy": {
+                    "currency": "PEN",
+                    "cost": "3.632",
+                    "variation": 0,
+                    "signal": "equals"
+                },
+                "sale": {
+                    "currency": "PEN",
+                    "cost": "3.638",
+                    "variation": 0,
+                    "signal": "equals"
+                }
+            },
+            "exchangeBanks": {
+                "bcp": {
+                    "buy": {
+                        "currency": "PEN",
+                        "cost": "3.538",
+                        "variation": 0.006,
+                        "signal": "positive"
+                    },
+                    "sale": {
+                        "currency": "PEN",
+                        "cost": "3.626",
+                        "variation": 0.002,
+                        "signal": "positive"
+                    }
+                },
+                "Interbank": {
+                    "buy": {
+                        "currency": "PEN",
+                        "cost": "3.562",
+                        "variation": -0.003,
+                        "signal": "negative"
+                    },
+                    "sale": {
+                        "currency": "PEN",
+                        "cost": "3.640",
+                        "variation": 0.008,
+                        "signal": "positive"
+                    }
+                },
+                "bbva": {
+                    "buy": {
+                        "currency": "PEN",
+                        "cost": "3.484",
+                        "variation": -0.022,
+                        "signal": "negative"
+                    },
+                    "sale": {
+                        "currency": "PEN",
+                        "cost": "3.654",
+                        "variation": 0.009,
+                        "signal": "positive"
+                    }
+                },
+                "scotiabank": {
+                    "buy": {
+                        "currency": "PEN",
+                        "cost": "3.496",
+                        "variation": 0.002,
+                        "signal": "positive"
+                    },
+                    "sale": {
+                        "currency": "PEN",
+                        "cost": "3.667",
+                        "variation": 0.007,
+                        "signal": "positive"
+                    }
+                },
+                "nacion": {
+                    "buy": {
+                        "currency": "PEN",
+                        "cost": "3.800",
+                        "variation": 0,
+                        "signal": "equals"
+                    },
+                    "sale": {
+                        "currency": "PEN",
+                        "cost": "3.990",
+                        "variation": 0,
+                        "signal": "equals"
+                    }
+                },
+                "euro oco\u00f1a": {
+                    "buy": {
+                        "currency": "PEN",
+                        "cost": "4.055",
+                        "variation": 4.055,
+                        "signal": "positive"
+                    },
+                    "sale": {
+                        "currency": "PEN",
+                        "cost": "4.08",
+                        "variation": 4.08,
+                        "signal": "positive"
+                    }
+                },
+                "canada": {
+                    "buy": {
+                        "currency": "PEN",
+                        "cost": "2.74",
+                        "variation": 2.74,
+                        "signal": "positive"
+                    },
+                    "sale": {
+                        "currency": "PEN",
+                        "cost": "2.84",
+                        "variation": 2.84,
+                        "signal": "positive"
+                    }
+                },
+                "Yuan": {
+                    "buy": {
+                        "currency": "PEN",
+                        "cost": "0.45",
+                        "variation": 0.45,
+                        "signal": "positive"
+                    },
+                    "sale": {
+                        "currency": "PEN",
+                        "cost": "0.53",
+                        "variation": 0.53,
+                        "signal": "positive"
+                    }
+                },
+                "Libra": {
+                    "buy": {
+                        "currency": "PEN",
+                        "cost": "4.85",
+                        "variation": 4.85,
+                        "signal": "positive"
+                    },
+                    "sale": {
+                        "currency": "PEN",
+                        "cost": "5.07",
+                        "variation": 5.07,
+                        "signal": "positive"
+                    }
+                }
+            },
+            "exchangeValues": {
+                "calle": {
+                    "buy": {
+                        "currency": "PEN",
+                        "cost": "3.57",
+                        "variation": -0.23,
+                        "signal": "negative"
+                    },
+                    "sale": {
+                        "currency": "PEN",
+                        "cost": "3.60",
+                        "variation": -0.23,
+                        "signal": "negative"
+                    }
+                },
+                "euro": {
+                    "buy": {
+                        "currency": "PEN",
+                        "cost": "4.03",
+                        "variation": 4.03,
+                        "signal": "positive"
+                    },
+                    "sale": {
+                        "currency": "PEN",
+                        "cost": " 4.11",
+                        "variation": 4.11,
+                        "signal": "positive"
+                    }
+                },
+                "Yuan": {
+                    "buy": {
+                        "currency": "PEN",
+                        "cost": "0.45",
+                        "variation": 0.45,
+                        "signal": "positive"
+                    },
+                    "sale": {
+                        "currency": "PEN",
+                        "cost": "0.53",
+                        "variation": 0.53,
+                        "signal": "positive"
+                    }
+                },
+                "Libra": {
+                    "buy": {
+                        "currency": "PEN",
+                        "cost": "4.85",
+                        "variation": 4.85,
+                        "signal": "positive"
+                    },
+                    "sale": {
+                        "currency": "PEN",
+                        "cost": "5.07",
+                        "variation": 5.07,
+                        "signal": "positive"
+                    }
+                }
+            },
+            "houseOnly": {
+                "id": "3",
+                "title": "Rextie",
+                "height": "48",
+                "width": "128",
+                "img": "img/logo/rextie.png",
+                "description": "Rextie es una casa de cambio que opera por internet y est\u00e1 registrada en la SBS. Rextie te da el mejor precio para cambiar d\u00f3lares de una forma segura y r\u00e1pida",
+                "color": "#000096",
+                "site": "https://www.rextie.com/rextie-empresas/registro/?utm_source=cuantocuestaeldolar_listado&utm_medium=cpc&utm_campaign=rextie_business_cuantocuestaeldolar&utm_id=rextie_business&utm_term=rextie_business_",
+                "path": "rextie",
+                "order": "27",
+                "bank": "BCP, Interbank, Pichincha, BANBIF",
+                "rates": {
+                    "buy": {
+                        "currency": "PEN",
+                        "cost": "3.567",
+                        "variation": 0,
+                        "signal": "equals"
+                    },
+                    "sale": {
+                        "currency": "PEN",
+                        "cost": "3.602",
+                        "variation": 0,
+                        "signal": "equals"
+                    }
+                },
+                "schedule": {
+                    "M-F": "8 am - 8 pm",
+                    "Saturdays": "9 am - 3 pm",
+                    "Sundays": ""
+                }
+            },
+            "posts": [
+                {
+                    "id": 26015,
+                    "date": "2023-07-12T08:57:00",
+                    "date_gmt": "2023-07-12T08:57:00",
+                    "modified": "2023-07-12T19:03:42",
+                    "modified_gmt": "2023-07-12T19:03:42",
+                    "slug": "tipo-de-cambio-hoy-miercoles-12-de-julio-conoce-aqui-la-cotizacion",
+                    "image": "https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/12190158/dia3-1.jpg",
+                    "link": "https://blog.cuantoestaeldolar.pe/tipo-de-cambio-hoy-miercoles-12-de-julio-conoce-aqui-la-cotizacion/",
+                    "title": "Tipo de cambio hoy mi\u00e9rcoles 12 de julio, conoce aqu\u00ed la cotizaci\u00f3n",
+                    "content": "\n<p id=\"block-3d6026a1-6db6-4328-ab15-43d184aa8ae9\">El\u00a0tipo de cambio del\u00a0<strong>precio del d\u00f3lar</strong>\u00a0el<strong>\u00a0mi\u00e9rcoles 12 de junio </strong>es de\u00a0<strong>S/ 3.57 </strong>en la compra y en\u00a0<strong>S/ 3.60 </strong>la venta, seg\u00fan el reporte de la\u00a0<strong><a href=\"http://www.sunat.gob.pe/\">SUNAT</a></strong>.</p>\n\n\n\n<p id=\"block-ba1f2b2d-6b9c-4ad2-9ce2-12ec2ca510c4\">En el mercado paralelo el precio del billete verde\u00a0registr\u00f3 un ligero retroceso con relaci\u00f3n al martes. Este mi\u00e9rcoles el mercado paralelo se ubic\u00f3 alrededor de los<strong>\u00a0S/ 3.6362 </strong>en la compra y\u00a0<strong>S/ 3.638 </strong>en la venta durante las primeras horas.</p>\n\n\n\n<p id=\"block-fe532e7c-db8b-4965-a4f9-822b1d1925cf\">Por su parte,\u00a0<strong><a href=\"https://www.bloomberg.com/quote/USDPEN:CUR?fbclid=IwAR3-0yeNwnQEJxlA30SVGkjOmGbWyoGn_4Q2_rU_ZZYteQhBu-uQro4YJOw\" target=\"_blank\" rel=\"noreferrer noopener\">Bloomberg</a></strong>\u00a0indic\u00f3 a trav\u00e9s de su portal financiero que la divisa fluct\u00faa ligeramente a la baja con<strong> 3.5816</strong>,<strong> </strong>un<strong>\u00a0</strong>0.0415 % menor durante la apertura de la jornada interbancaria.</p>\n\n\n\n<h3 id=\"h-variaci-n-del-precio-del-d-lar-en-el-d-a\">Variaci\u00f3n del Precio del d\u00f3lar en el d\u00eda</h3>\n\n\n\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" width=\"968\" height=\"541\" src=\"https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/12190058/variacion-5.jpg\" alt=\"\" class=\"wp-image-26016\" srcset=\"https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/12190058/variacion-5.jpg 968w, https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/12190058/variacion-5-300x168.jpg 300w, https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/12190058/variacion-5-768x429.jpg 768w\" sizes=\"(max-width: 968px) 100vw, 968px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" width=\"862\" height=\"818\" src=\"https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/12190110/casas-7.jpg\" alt=\"\" class=\"wp-image-26017\" srcset=\"https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/12190110/casas-7.jpg 862w, https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/12190110/casas-7-300x285.jpg 300w, https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/12190110/casas-7-768x729.jpg 768w\" sizes=\"(max-width: 862px) 100vw, 862px\" /></figure>\n",
+                    "excerpt": "<p>El\u00a0tipo de cambio del\u00a0precio del d\u00f3lar\u00a0el\u00a0mi\u00e9rcoles 12 de junio es de\u00a0S/ 3.57 en la compra y en\u00a0S/ 3.60 la venta, seg\u00fan el reporte de la\u00a0SUNAT. En el mercado paralelo el precio del billete verde\u00a0registr\u00f3 un ligero retroceso con relaci\u00f3n al martes. Este mi\u00e9rcoles el mercado paralelo se ubic\u00f3 alrededor de los\u00a0S/ 3.6362 en la compra [&hellip;]</p>\n",
+                    "author": {
+                        "name": "adminCED",
+                        "link": "https://blog.cuantoestaeldolar.pe/author/adminced/"
+                    }
+                },
+                {
+                    "id": 26004,
+                    "date": "2023-07-11T13:44:56",
+                    "date_gmt": "2023-07-11T13:44:56",
+                    "modified": "2023-07-11T13:44:59",
+                    "modified_gmt": "2023-07-11T13:44:59",
+                    "slug": "gratificacion-2023-calcula-cuanto-te-corresponderia-recibir-estas-fiestas-patrias",
+                    "image": "https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/11134048/nota-diaria-51.jpg",
+                    "link": "https://blog.cuantoestaeldolar.pe/gratificacion-2023-calcula-cuanto-te-corresponderia-recibir-estas-fiestas-patrias/",
+                    "title": "Gratificaci\u00f3n 2023: calcula cu\u00e1nto te corresponder\u00eda recibir estas Fiestas Patrias",
+                    "content": "\n<p>La <strong>Superintendencia Nacional de Fiscalizaci\u00f3n Labor</strong>al (Sunafil) cuenta con el aplicativo \u00abCalcula tu Grati\u00bb, que permite realizar un c\u00e1lculo referencial de cu\u00e1nto le corresponde recibir a un trabajador por este concepto en las<strong> Fiestas Patrias </strong>que se avecinan.</p>\n\n\n\n<p>Desde entonces hasta la fecha, un total de 47 949 trabajadores han realizado 110 944 consultas en el aplicativo web, que les ha permitido conocer el monto a recibir de manera aproximada. Este aplicativo est\u00e1 dise\u00f1ado para los trabajadores del r\u00e9gimen privado que laboran en peque\u00f1as, medianas y grandes empresas.</p>\n\n\n\n<h3>\u00bfQu\u00e9 es la gratificaci\u00f3n?</h3>\n\n\n\n<p>La gratificaci\u00f3n es un beneficio social que se otorga dos veces al a\u00f1o, tanto en julio como en diciembre, con ocasi\u00f3n de las <strong>Fiestas Patrias </strong>y la <strong>Navidad</strong>, respectivamente, para todos los trabajadores de este r\u00e9gimen.</p>\n\n\n\n<p>El monto debe ser equivalente a una remuneraci\u00f3n mensual \u00edntegra, en caso el trabajador haya laborado el semestre completo. En caso no se tenga este periodo completo, la gratificaci\u00f3n ser\u00e1 equivalente a 1/6 de la remuneraci\u00f3n computable por cada mes laborado.</p>\n\n\n\n<p>Adem\u00e1s de la gratificaci\u00f3n, el empleador debe abonar una bonificaci\u00f3n extraordinaria equivalente al 9 % del aporte al Seguro Social de Salud que hubiese correspondido efectuar con relaci\u00f3n a la gratificaci\u00f3n de diciembre.</p>\n\n\n\n<p>En caso el trabajador est\u00e9 cubierto por una Entidad Prestadora de Salud (EPS), la bonificaci\u00f3n extraordinaria ser\u00e1 igual al 6.75 %.</p>\n\n\n\n<h3 id=\"h-c-mo-realizar-el-c-lculo-de-la-gratificaci-n\">\u00bfC\u00f3mo realizar el c\u00e1lculo de la gratificaci\u00f3n?</h3>\n\n\n\n<p>Para acceder al aplicativo, puede ingresar a la p\u00e1gina web www.gob.pe/sunafil, dirigirse hacia la secci\u00f3n \u00abEnlaces de Inter\u00e9s\u00bb y luego hacer clic en el apartado \u00abCalculadora Laboral\u00bb. Una vez adentro, el sistema brindar\u00e1 herramientas diferenciadas para calcular las gratificaciones o la CTS.</p>\n\n\n\n<p>Para continuar con el c\u00e1lculo, el sistema le pedir\u00e1 datos como el monto de su remuneraci\u00f3n, las horas extras y las comisiones ganadas en el \u00faltimo semestre, por lo que se recomienda tener a la mano las boletas de pago.</p>\n\n\n\n<p>En el caso de las microempresas, estas no est\u00e1n obligadas al pago de gratificaciones, sin embargo, las peque\u00f1as empresas (cuyas ventas anuales oscilan entre las 150 y las 1700 UIT) s\u00ed las deben pagar, y el monto debe ser igual a media remuneraci\u00f3n. Para ello, la empresa debe estar debidamente registrada en el Remype.</p>\n\n\n\n<p>Los trabajadores de la peque\u00f1a empresa tienen derecho a recibir una bonificaci\u00f3n extraordinaria del 9 %, conforme a la Ley N.\u00b0 30334.</p>\n",
+                    "excerpt": "<p>La Superintendencia Nacional de Fiscalizaci\u00f3n Laboral (Sunafil) cuenta con el aplicativo \u00abCalcula tu Grati\u00bb, que permite realizar un c\u00e1lculo referencial de cu\u00e1nto le corresponde recibir a un trabajador por este concepto en las Fiestas Patrias que se avecinan. Desde entonces hasta la fecha, un total de 47 949 trabajadores han realizado 110 944 consultas en [&hellip;]</p>\n",
+                    "author": {
+                        "name": "adminCED",
+                        "link": "https://blog.cuantoestaeldolar.pe/author/adminced/"
+                    }
+                },
+                {
+                    "id": 26009,
+                    "date": "2023-07-11T09:47:00",
+                    "date_gmt": "2023-07-11T09:47:00",
+                    "modified": "2023-07-12T19:04:04",
+                    "modified_gmt": "2023-07-12T19:04:04",
+                    "slug": "tipo-de-cambio-hoy-martes-11-de-julio-conoce-aqui-la-cotizacion",
+                    "image": "https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/11184922/dia2-1.jpg",
+                    "link": "https://blog.cuantoestaeldolar.pe/tipo-de-cambio-hoy-martes-11-de-julio-conoce-aqui-la-cotizacion/",
+                    "title": "Tipo de cambio hoy martes 11 de julio, conoce aqu\u00ed la cotizaci\u00f3n",
+                    "content": "\n<p id=\"block-3d6026a1-6db6-4328-ab15-43d184aa8ae9\">El&nbsp;tipo de cambio del&nbsp;<strong>precio del d\u00f3lar</strong>&nbsp;el<strong>&nbsp;martes 11 de junio </strong>es de&nbsp;<strong>S/ 3.61 </strong>en la compra y en&nbsp;<strong>S/ 3.635 </strong>la venta, seg\u00fan el reporte de la&nbsp;<strong><a href=\"http://www.sunat.gob.pe/\">SUNAT</a></strong>.</p>\n\n\n\n<p id=\"block-ba1f2b2d-6b9c-4ad2-9ce2-12ec2ca510c4\">En el mercado paralelo el precio del billete verde\u00a0registr\u00f3 un ligero retroceso con relaci\u00f3n al lunes. Este martes el mercado paralelo se ubic\u00f3 alrededor de los<strong>\u00a0S/ 3.636 </strong>en la compra y\u00a0<strong>S/ 3.643 </strong>en la venta durante las primeras horas.</p>\n\n\n\n<p id=\"block-fe532e7c-db8b-4965-a4f9-822b1d1925cf\">Por su parte,&nbsp;<strong><a href=\"https://www.bloomberg.com/quote/USDPEN:CUR?fbclid=IwAR3-0yeNwnQEJxlA30SVGkjOmGbWyoGn_4Q2_rU_ZZYteQhBu-uQro4YJOw\" target=\"_blank\" rel=\"noreferrer noopener\">Bloomberg</a></strong>&nbsp;indic\u00f3 a trav\u00e9s de su portal financiero que la divisa fluct\u00faa ligeramente a la baja con<strong> 3.6361</strong>,<strong> </strong>un<strong>&nbsp;</strong>0.0130 % menor durante la apertura de la jornada interbancaria.</p>\n\n\n\n<h3 id=\"h-variaci-n-del-precio-del-d-lar-en-el-d-a\">Variaci\u00f3n del Precio del d\u00f3lar en el d\u00eda</h3>\n\n\n\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" width=\"958\" height=\"557\" src=\"https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/11185121/variacion-4.jpg\" alt=\"\" class=\"wp-image-26012\" srcset=\"https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/11185121/variacion-4.jpg 958w, https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/11185121/variacion-4-300x174.jpg 300w, https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/11185121/variacion-4-768x447.jpg 768w\" sizes=\"(max-width: 958px) 100vw, 958px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" width=\"862\" height=\"806\" src=\"https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/11185133/casas-6.jpg\" alt=\"\" class=\"wp-image-26013\" srcset=\"https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/11185133/casas-6.jpg 862w, https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/11185133/casas-6-300x281.jpg 300w, https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/11185133/casas-6-768x718.jpg 768w\" sizes=\"(max-width: 862px) 100vw, 862px\" /></figure>\n",
+                    "excerpt": "<p>El&nbsp;tipo de cambio del&nbsp;precio del d\u00f3lar&nbsp;el&nbsp;martes 11 de junio es de&nbsp;S/ 3.61 en la compra y en&nbsp;S/ 3.635 la venta, seg\u00fan el reporte de la&nbsp;SUNAT. En el mercado paralelo el precio del billete verde\u00a0registr\u00f3 un ligero retroceso con relaci\u00f3n al lunes. Este martes el mercado paralelo se ubic\u00f3 alrededor de los\u00a0S/ 3.636 en la compra [&hellip;]</p>\n",
+                    "author": {
+                        "name": "adminCED",
+                        "link": "https://blog.cuantoestaeldolar.pe/author/adminced/"
+                    }
+                },
+                {
+                    "id": 25999,
+                    "date": "2023-07-10T15:02:00",
+                    "date_gmt": "2023-07-10T15:02:00",
+                    "modified": "2023-07-11T13:57:34",
+                    "modified_gmt": "2023-07-11T13:57:34",
+                    "slug": "la-pobreza-en-peru-aumento-a-27-en-2022-que-sectores-fueron-los-mas-afectados",
+                    "image": "https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/11135040/nota-diaria-52.jpg",
+                    "link": "https://blog.cuantoestaeldolar.pe/la-pobreza-en-peru-aumento-a-27-en-2022-que-sectores-fueron-los-mas-afectados/",
+                    "title": "La pobreza en Per\u00fa aument\u00f3 a 27 % en 2022: \u00bfqu\u00e9 sectores fueron los m\u00e1s afectados?",
+                    "content": "\n<p>La poblaci\u00f3n de Per\u00fa en <strong>situaci\u00f3n de pobreza </strong>se increment\u00f3 a 27,5% en 2022, un alza de 1,6 puntos respecto a 2021, y afect\u00f3 a unas 9,1 millones de personas, inform\u00f3 el gobierno.</p>\n\n\n\n<p>La <strong>pobreza extrema </strong>tambi\u00e9n subi\u00f3 en 2022 y pas\u00f3 de 4,1% a 5,0%, seg\u00fan el informe anual del<strong> Instituto Nacional de Estad\u00edstica e Inform\u00e1tica </strong>(INEI) sobre evoluci\u00f3n de la pobreza monetaria 2021-2022.</p>\n\n\n\n<p>El nivel de pobreza en 2022 supera todav\u00eda los indicadores previos a la pandemia, cuando Per\u00fa registraba 20,2% de pobres en 2019. En el primer a\u00f1o de COVID-19, el \u00edndice de pobreza alcanz\u00f3 la cifra r\u00e9cord de 30,1% en 2020.</p>\n\n\n\n<p>Seg\u00fan el INEI, m\u00e1s mujeres que hombres son pobres: \u00abEl 27,8% de la poblaci\u00f3n femenina y el 27,2% de la poblaci\u00f3n masculina del pa\u00eds fueron afectados por la pobreza\u00bb. El nivel de formaci\u00f3n educativa tambi\u00e9n se refleja en la situaci\u00f3n de pobreza, ya que el 36,8% de la poblaci\u00f3n en condici\u00f3n de pobreza estudi\u00f3 hasta primaria, seguido del 28,3% que estudi\u00f3 educaci\u00f3n secundaria y el 11,2% alcanz\u00f3 la educaci\u00f3n superior.</p>\n\n\n\n<h3 id=\"h-c-mo-se-mide-la-pobreza-en-el-per\">\u00bfC\u00f3mo se mide la pobreza en el Per\u00fa?</h3>\n\n\n\n<p>El informe se\u00f1ala que \u00abel 51,7% de los hogares en situaci\u00f3n de pobreza dispone del servicio de desag\u00fce por red p\u00fablica dentro de la vivienda y en el caso de los hogares en pobreza extrema el 30,3%\u00bb.</p>\n\n\n\n<p>A pesar de las limitaciones en el acceso a algunos servicios b\u00e1sicos, el <strong>INEI </strong>resalta que \u00abel acceso a un tel\u00e9fono m\u00f3vil\u00bb es de 90,9% entre los hogares pobres.</p>\n\n\n\n<p>En el caso de internet, un 33,0% de pobres se puede conectar a la red. En cuanto a condiciones de alimentaci\u00f3n y salud, \u00aben 2022 el 36,2% de la poblaci\u00f3n present\u00f3 d\u00e9ficit cal\u00f3rico y el 42,4% de la poblaci\u00f3n de 6 a 35 meses de edad padeci\u00f3 anemia\u00bb.</p>\n\n\n\n<p>La medici\u00f3n oficial de la pobreza en Per\u00fa se efect\u00faa a trav\u00e9s del indicador del gasto en cada hogar, explic\u00f3 el INEI. La l\u00ednea de pobreza se mide en base \u00abal equivalente monetario al costo (mensual) de una canasta b\u00e1sica de consumo de alimentos y no alimentos\u00bb.</p>\n\n\n\n<p>En 2022 ese gasto mensual fue de 415 soles (unos 112 d\u00f3lares) por habitante en una canasta b\u00e1sica. Si una persona gasta menos que esa cifra es considerada pobre. En la pobreza extrema se incluy\u00f3 a las personas que destinaron menos de 226 soles mensuales (unos 61 d\u00f3lares) a sus gastos alimentarios.</p>\n",
+                    "excerpt": "<p>La poblaci\u00f3n de Per\u00fa en situaci\u00f3n de pobreza se increment\u00f3 a 27,5% en 2022, un alza de 1,6 puntos respecto a 2021, y afect\u00f3 a unas 9,1 millones de personas, inform\u00f3 el gobierno. La pobreza extrema tambi\u00e9n subi\u00f3 en 2022 y pas\u00f3 de 4,1% a 5,0%, seg\u00fan el informe anual del Instituto Nacional de Estad\u00edstica [&hellip;]</p>\n",
+                    "author": {
+                        "name": "adminCED",
+                        "link": "https://blog.cuantoestaeldolar.pe/author/adminced/"
+                    }
+                },
+                {
+                    "id": 25981,
+                    "date": "2023-07-10T09:51:00",
+                    "date_gmt": "2023-07-10T09:51:00",
+                    "modified": "2023-07-11T18:48:35",
+                    "modified_gmt": "2023-07-11T18:48:35",
+                    "slug": "tipo-de-cambio-hoy-lunes-10-de-julio-conoce-aqui-la-cotizacion",
+                    "image": "https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/10185500/dia1-1.jpg",
+                    "link": "https://blog.cuantoestaeldolar.pe/tipo-de-cambio-hoy-lunes-10-de-julio-conoce-aqui-la-cotizacion/",
+                    "title": "Tipo de cambio hoy lunes 10 de julio, conoce aqu\u00ed la cotizaci\u00f3n",
+                    "content": "\n<p id=\"block-3d6026a1-6db6-4328-ab15-43d184aa8ae9\">El&nbsp;tipo de cambio del&nbsp;<strong>precio del d\u00f3lar</strong>&nbsp;el<strong>&nbsp;lunes 10 de junio </strong>es de&nbsp;<strong>S/ 3.62 </strong>en la compra y en&nbsp;<strong>S/ 3.645 </strong>la venta, seg\u00fan el reporte de la&nbsp;<strong><a href=\"http://www.sunat.gob.pe/\">SUNAT</a></strong>.</p>\n\n\n\n<p id=\"block-ba1f2b2d-6b9c-4ad2-9ce2-12ec2ca510c4\">En el mercado paralelo el precio del billete verde&nbsp;registr\u00f3 un ligero incremento con relaci\u00f3n al viernes. Este lunes el mercado paralelo se ubic\u00f3 alrededor de los<strong>&nbsp;S/ 3.637 </strong>en la compra y&nbsp;<strong>S/ 3.643 </strong>en la venta durante las primeras horas.</p>\n\n\n\n<p id=\"block-fe532e7c-db8b-4965-a4f9-822b1d1925cf\">Por su parte,&nbsp;<strong><a href=\"https://www.bloomberg.com/quote/USDPEN:CUR?fbclid=IwAR3-0yeNwnQEJxlA30SVGkjOmGbWyoGn_4Q2_rU_ZZYteQhBu-uQro4YJOw\" target=\"_blank\" rel=\"noreferrer noopener\">Bloomberg</a></strong>&nbsp;indic\u00f3 a trav\u00e9s de su portal financiero que la divisa fluct\u00faa ligeramente a la baja con<strong> 3.6361</strong>,<strong> </strong>un<strong>&nbsp;</strong>0.0053 % menor durante la apertura de la jornada interbancaria.</p>\n\n\n\n<h3 id=\"h-variaci-n-del-precio-del-d-lar-en-el-d-a\">Variaci\u00f3n del Precio del d\u00f3lar en el d\u00eda</h3>\n\n\n\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" width=\"964\" height=\"565\" src=\"https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/10185436/variacion-3.jpg\" alt=\"\" class=\"wp-image-25982\" srcset=\"https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/10185436/variacion-3.jpg 964w, https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/10185436/variacion-3-300x176.jpg 300w, https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/10185436/variacion-3-768x450.jpg 768w\" sizes=\"(max-width: 964px) 100vw, 964px\" /></figure>\n\n\n\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" width=\"720\" height=\"674\" src=\"https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/10185446/casas-5.jpg\" alt=\"\" class=\"wp-image-25983\" srcset=\"https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/10185446/casas-5.jpg 720w, https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/10185446/casas-5-300x281.jpg 300w\" sizes=\"(max-width: 720px) 100vw, 720px\" /></figure>\n",
+                    "excerpt": "<p>El&nbsp;tipo de cambio del&nbsp;precio del d\u00f3lar&nbsp;el&nbsp;lunes 10 de junio es de&nbsp;S/ 3.62 en la compra y en&nbsp;S/ 3.645 la venta, seg\u00fan el reporte de la&nbsp;SUNAT. En el mercado paralelo el precio del billete verde&nbsp;registr\u00f3 un ligero incremento con relaci\u00f3n al viernes. Este lunes el mercado paralelo se ubic\u00f3 alrededor de los&nbsp;S/ 3.637 en la compra [&hellip;]</p>\n",
+                    "author": {
+                        "name": "adminCED",
+                        "link": "https://blog.cuantoestaeldolar.pe/author/adminced/"
+                    }
+                },
+                {
+                    "id": 25973,
+                    "date": "2023-07-07T08:57:00",
+                    "date_gmt": "2023-07-07T08:57:00",
+                    "modified": "2023-07-07T00:59:08",
+                    "modified_gmt": "2023-07-07T00:59:08",
+                    "slug": "tipo-de-cambio-hoy-viernes-7-de-julio-conoce-aqui-la-cotizacion",
+                    "image": "https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/07005845/dia5.jpg",
+                    "link": "https://blog.cuantoestaeldolar.pe/tipo-de-cambio-hoy-viernes-7-de-julio-conoce-aqui-la-cotizacion/",
+                    "title": "Tipo de cambio hoy viernes 7 de julio, conoce aqu\u00ed la cotizaci\u00f3n",
+                    "content": "\n<p id=\"block-3d6026a1-6db6-4328-ab15-43d184aa8ae9\">El\u00a0tipo de cambio del\u00a0<strong>precio del d\u00f3lar</strong>\u00a0el<strong>\u00a0viernes 7 de junio </strong>es de\u00a0<strong>S/ 3.63 </strong>en la compra y en\u00a0<strong>S/ 3.655 </strong>la venta, seg\u00fan el reporte de la\u00a0<strong><a href=\"http://www.sunat.gob.pe/\">SUNAT</a></strong>.</p>\n\n\n\n<p id=\"block-ba1f2b2d-6b9c-4ad2-9ce2-12ec2ca510c4\">En el mercado paralelo el precio del billete verde\u00a0registr\u00f3 un ligero incremento con relaci\u00f3n al jueves. Este viernes el mercado paralelo se ubic\u00f3 alrededor de los<strong>\u00a0S/ 3.627 </strong>en la compra y\u00a0<strong>S/ 3.633 </strong>en la venta durante las primeras horas.</p>\n\n\n\n<p id=\"block-fe532e7c-db8b-4965-a4f9-822b1d1925cf\">Por su parte,&nbsp;<strong><a href=\"https://www.bloomberg.com/quote/USDPEN:CUR?fbclid=IwAR3-0yeNwnQEJxlA30SVGkjOmGbWyoGn_4Q2_rU_ZZYteQhBu-uQro4YJOw\" target=\"_blank\" rel=\"noreferrer noopener\">Bloomberg</a></strong>&nbsp;indic\u00f3 a trav\u00e9s de su portal financiero que la divisa fluct\u00faa ligeramente a la baja con<strong> 3.6469</strong>,<strong> </strong>un<strong>&nbsp;</strong>0.0141 % mayor durante la apertura de la jornada interbancaria.</p>\n\n\n\n<h3 id=\"h-variaci-n-del-precio-del-d-lar-en-el-d-a\">Variaci\u00f3n del Precio del d\u00f3lar en el d\u00eda</h3>\n\n\n\n<figure class=\"wp-block-image size-full\"><img loading=\"lazy\" width=\"763\" height=\"730\" src=\"https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/07005739/casas-4.jpg\" alt=\"\" class=\"wp-image-25974\" srcset=\"https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/07005739/casas-4.jpg 763w, https://cedblog.s3.amazonaws.com/wp-content/uploads/2023/07/07005739/casas-4-300x287.jpg 300w\" sizes=\"(max-width: 763px) 100vw, 763px\" /></figure>\n",
+                    "excerpt": "<p>El\u00a0tipo de cambio del\u00a0precio del d\u00f3lar\u00a0el\u00a0viernes 7 de junio es de\u00a0S/ 3.63 en la compra y en\u00a0S/ 3.655 la venta, seg\u00fan el reporte de la\u00a0SUNAT. En el mercado paralelo el precio del billete verde\u00a0registr\u00f3 un ligero incremento con relaci\u00f3n al jueves. Este viernes el mercado paralelo se ubic\u00f3 alrededor de los\u00a0S/ 3.627 en la compra [&hellip;]</p>\n",
+                    "author": {
+                        "name": "adminCED",
+                        "link": "https://blog.cuantoestaeldolar.pe/author/adminced/"
+                    }
+                }
+            ],
+            "dataBuy": [
+                {
+                    "ticker": "PEN:CUR",
+                    "previousClosingPriceOneTradingDayAgo": 3.6231,
+                    "openPrice": null,
+                    "range": {
+                        "start": "2023-07-12T14:00:00Z",
+                        "end": "2023-07-12T18:30:00Z"
+                    },
+                    "price": [
+                        {
+                            "dateTime": "2023-07-12T14:00:00Z",
+                            "value": 3.6112
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:02:00Z",
+                            "value": 3.6073
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:04:00Z",
+                            "value": 3.6073
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:06:00Z",
+                            "value": 3.5987
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:08:00Z",
+                            "value": 3.5987
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:10:00Z",
+                            "value": 3.5947
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:12:00Z",
+                            "value": 3.5947
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:14:00Z",
+                            "value": 3.5923
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:16:00Z",
+                            "value": 3.5907
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:18:00Z",
+                            "value": 3.5892
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:20:00Z",
+                            "value": 3.5876
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:22:00Z",
+                            "value": 3.5901
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:24:00Z",
+                            "value": 3.5906
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:26:00Z",
+                            "value": 3.5926
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:28:00Z",
+                            "value": 3.5929
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:30:00Z",
+                            "value": 3.5921
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:32:00Z",
+                            "value": 3.5886
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:34:00Z",
+                            "value": 3.5861
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:36:00Z",
+                            "value": 3.5861
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:38:00Z",
+                            "value": 3.5866
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:40:00Z",
+                            "value": 3.5866
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:42:00Z",
+                            "value": 3.5866
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:44:00Z",
+                            "value": 3.5866
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:46:00Z",
+                            "value": 3.5866
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:48:00Z",
+                            "value": 3.5866
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:50:00Z",
+                            "value": 3.5867
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:52:00Z",
+                            "value": 3.5872
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:54:00Z",
+                            "value": 3.5872
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:56:00Z",
+                            "value": 3.5867
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:58:00Z",
+                            "value": 3.5867
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:00:00Z",
+                            "value": 3.5867
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:02:00Z",
+                            "value": 3.5872
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:04:00Z",
+                            "value": 3.5887
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:06:00Z",
+                            "value": 3.5882
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:08:00Z",
+                            "value": 3.5882
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:10:00Z",
+                            "value": 3.5877
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:12:00Z",
+                            "value": 3.5877
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:14:00Z",
+                            "value": 3.5877
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:16:00Z",
+                            "value": 3.5876
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:18:00Z",
+                            "value": 3.5876
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:20:00Z",
+                            "value": 3.5873
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:22:00Z",
+                            "value": 3.5871
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:24:00Z",
+                            "value": 3.585
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:26:00Z",
+                            "value": 3.5856
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:28:00Z",
+                            "value": 3.5856
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:30:00Z",
+                            "value": 3.5846
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:32:00Z",
+                            "value": 3.5846
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:34:00Z",
+                            "value": 3.5851
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:36:00Z",
+                            "value": 3.5851
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:38:00Z",
+                            "value": 3.5851
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:40:00Z",
+                            "value": 3.5851
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:42:00Z",
+                            "value": 3.5856
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:44:00Z",
+                            "value": 3.5851
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:46:00Z",
+                            "value": 3.5851
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:48:00Z",
+                            "value": 3.5851
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:50:00Z",
+                            "value": 3.5856
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:52:00Z",
+                            "value": 3.5851
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:54:00Z",
+                            "value": 3.5851
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:56:00Z",
+                            "value": 3.5856
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:58:00Z",
+                            "value": 3.5852
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:00:00Z",
+                            "value": 3.5856
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:02:00Z",
+                            "value": 3.586
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:04:00Z",
+                            "value": 3.5844
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:06:00Z",
+                            "value": 3.5844
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:08:00Z",
+                            "value": 3.5843
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:10:00Z",
+                            "value": 3.5843
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:12:00Z",
+                            "value": 3.5843
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:14:00Z",
+                            "value": 3.5843
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:16:00Z",
+                            "value": 3.5846
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:18:00Z",
+                            "value": 3.5837
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:20:00Z",
+                            "value": 3.5842
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:22:00Z",
+                            "value": 3.5842
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:24:00Z",
+                            "value": 3.5842
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:26:00Z",
+                            "value": 3.5842
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:28:00Z",
+                            "value": 3.5842
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:30:00Z",
+                            "value": 3.5841
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:32:00Z",
+                            "value": 3.5841
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:34:00Z",
+                            "value": 3.5841
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:36:00Z",
+                            "value": 3.5841
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:38:00Z",
+                            "value": 3.5841
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:40:00Z",
+                            "value": 3.5841
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:42:00Z",
+                            "value": 3.5836
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:44:00Z",
+                            "value": 3.5836
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:46:00Z",
+                            "value": 3.5836
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:48:00Z",
+                            "value": 3.5835
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:50:00Z",
+                            "value": 3.5835
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:52:00Z",
+                            "value": 3.5836
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:54:00Z",
+                            "value": 3.5837
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:56:00Z",
+                            "value": 3.5837
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:58:00Z",
+                            "value": 3.5837
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:00:00Z",
+                            "value": 3.5837
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:02:00Z",
+                            "value": 3.5823
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:04:00Z",
+                            "value": 3.5814
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:06:00Z",
+                            "value": 3.5805
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:08:00Z",
+                            "value": 3.5808
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:10:00Z",
+                            "value": 3.5792
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:12:00Z",
+                            "value": 3.5777
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:14:00Z",
+                            "value": 3.5777
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:16:00Z",
+                            "value": 3.5777
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:18:00Z",
+                            "value": 3.5777
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:20:00Z",
+                            "value": 3.5777
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:22:00Z",
+                            "value": 3.5786
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:24:00Z",
+                            "value": 3.5786
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:26:00Z",
+                            "value": 3.5781
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:28:00Z",
+                            "value": 3.5781
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:30:00Z",
+                            "value": 3.5751
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:32:00Z",
+                            "value": 3.5751
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:34:00Z",
+                            "value": 3.5751
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:36:00Z",
+                            "value": 3.5751
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:38:00Z",
+                            "value": 3.5756
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:40:00Z",
+                            "value": 3.5781
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:42:00Z",
+                            "value": 3.5822
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:44:00Z",
+                            "value": 3.5821
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:46:00Z",
+                            "value": 3.5826
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:48:00Z",
+                            "value": 3.5826
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:50:00Z",
+                            "value": 3.5807
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:52:00Z",
+                            "value": 3.5797
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:54:00Z",
+                            "value": 3.5787
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:56:00Z",
+                            "value": 3.5787
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:58:00Z",
+                            "value": 3.5787
+                        }
+                    ],
+                    "volume": [
+                        {
+                            "dateTime": "2023-07-12T14:00:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:15:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:30:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:45:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:00:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:15:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:30:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:45:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:00:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:15:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:30:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:45:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:00:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:15:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:30:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:45:00Z",
+                            "value": 0
+                        }
+                    ]
+                }
+            ],
+            "chart": [
+                {
+                    "ticker": "PEN:CUR",
+                    "previousClosingPriceOneTradingDayAgo": 3.6231,
+                    "openPrice": null,
+                    "range": {
+                        "start": "2023-07-12T14:00:00Z",
+                        "end": "2023-07-12T18:30:00Z"
+                    },
+                    "price": [
+                        {
+                            "dateTime": "2023-07-12T14:00:00Z",
+                            "value": 3.6112
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:02:00Z",
+                            "value": 3.6073
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:04:00Z",
+                            "value": 3.6073
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:06:00Z",
+                            "value": 3.5987
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:08:00Z",
+                            "value": 3.5987
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:10:00Z",
+                            "value": 3.5947
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:12:00Z",
+                            "value": 3.5947
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:14:00Z",
+                            "value": 3.5923
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:16:00Z",
+                            "value": 3.5907
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:18:00Z",
+                            "value": 3.5892
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:20:00Z",
+                            "value": 3.5876
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:22:00Z",
+                            "value": 3.5901
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:24:00Z",
+                            "value": 3.5906
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:26:00Z",
+                            "value": 3.5926
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:28:00Z",
+                            "value": 3.5929
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:30:00Z",
+                            "value": 3.5921
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:32:00Z",
+                            "value": 3.5886
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:34:00Z",
+                            "value": 3.5861
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:36:00Z",
+                            "value": 3.5861
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:38:00Z",
+                            "value": 3.5866
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:40:00Z",
+                            "value": 3.5866
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:42:00Z",
+                            "value": 3.5866
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:44:00Z",
+                            "value": 3.5866
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:46:00Z",
+                            "value": 3.5866
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:48:00Z",
+                            "value": 3.5866
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:50:00Z",
+                            "value": 3.5867
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:52:00Z",
+                            "value": 3.5872
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:54:00Z",
+                            "value": 3.5872
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:56:00Z",
+                            "value": 3.5867
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:58:00Z",
+                            "value": 3.5867
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:00:00Z",
+                            "value": 3.5867
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:02:00Z",
+                            "value": 3.5872
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:04:00Z",
+                            "value": 3.5887
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:06:00Z",
+                            "value": 3.5882
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:08:00Z",
+                            "value": 3.5882
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:10:00Z",
+                            "value": 3.5877
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:12:00Z",
+                            "value": 3.5877
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:14:00Z",
+                            "value": 3.5877
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:16:00Z",
+                            "value": 3.5876
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:18:00Z",
+                            "value": 3.5876
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:20:00Z",
+                            "value": 3.5873
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:22:00Z",
+                            "value": 3.5871
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:24:00Z",
+                            "value": 3.585
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:26:00Z",
+                            "value": 3.5856
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:28:00Z",
+                            "value": 3.5856
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:30:00Z",
+                            "value": 3.5846
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:32:00Z",
+                            "value": 3.5846
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:34:00Z",
+                            "value": 3.5851
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:36:00Z",
+                            "value": 3.5851
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:38:00Z",
+                            "value": 3.5851
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:40:00Z",
+                            "value": 3.5851
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:42:00Z",
+                            "value": 3.5856
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:44:00Z",
+                            "value": 3.5851
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:46:00Z",
+                            "value": 3.5851
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:48:00Z",
+                            "value": 3.5851
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:50:00Z",
+                            "value": 3.5856
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:52:00Z",
+                            "value": 3.5851
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:54:00Z",
+                            "value": 3.5851
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:56:00Z",
+                            "value": 3.5856
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:58:00Z",
+                            "value": 3.5852
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:00:00Z",
+                            "value": 3.5856
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:02:00Z",
+                            "value": 3.586
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:04:00Z",
+                            "value": 3.5844
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:06:00Z",
+                            "value": 3.5844
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:08:00Z",
+                            "value": 3.5843
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:10:00Z",
+                            "value": 3.5843
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:12:00Z",
+                            "value": 3.5843
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:14:00Z",
+                            "value": 3.5843
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:16:00Z",
+                            "value": 3.5846
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:18:00Z",
+                            "value": 3.5837
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:20:00Z",
+                            "value": 3.5842
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:22:00Z",
+                            "value": 3.5842
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:24:00Z",
+                            "value": 3.5842
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:26:00Z",
+                            "value": 3.5842
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:28:00Z",
+                            "value": 3.5842
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:30:00Z",
+                            "value": 3.5841
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:32:00Z",
+                            "value": 3.5841
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:34:00Z",
+                            "value": 3.5841
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:36:00Z",
+                            "value": 3.5841
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:38:00Z",
+                            "value": 3.5841
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:40:00Z",
+                            "value": 3.5841
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:42:00Z",
+                            "value": 3.5836
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:44:00Z",
+                            "value": 3.5836
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:46:00Z",
+                            "value": 3.5836
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:48:00Z",
+                            "value": 3.5835
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:50:00Z",
+                            "value": 3.5835
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:52:00Z",
+                            "value": 3.5836
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:54:00Z",
+                            "value": 3.5837
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:56:00Z",
+                            "value": 3.5837
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:58:00Z",
+                            "value": 3.5837
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:00:00Z",
+                            "value": 3.5837
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:02:00Z",
+                            "value": 3.5823
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:04:00Z",
+                            "value": 3.5814
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:06:00Z",
+                            "value": 3.5805
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:08:00Z",
+                            "value": 3.5808
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:10:00Z",
+                            "value": 3.5792
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:12:00Z",
+                            "value": 3.5777
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:14:00Z",
+                            "value": 3.5777
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:16:00Z",
+                            "value": 3.5777
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:18:00Z",
+                            "value": 3.5777
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:20:00Z",
+                            "value": 3.5777
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:22:00Z",
+                            "value": 3.5786
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:24:00Z",
+                            "value": 3.5786
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:26:00Z",
+                            "value": 3.5781
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:28:00Z",
+                            "value": 3.5781
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:30:00Z",
+                            "value": 3.5751
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:32:00Z",
+                            "value": 3.5751
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:34:00Z",
+                            "value": 3.5751
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:36:00Z",
+                            "value": 3.5751
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:38:00Z",
+                            "value": 3.5756
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:40:00Z",
+                            "value": 3.5781
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:42:00Z",
+                            "value": 3.5822
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:44:00Z",
+                            "value": 3.5821
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:46:00Z",
+                            "value": 3.5826
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:48:00Z",
+                            "value": 3.5826
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:50:00Z",
+                            "value": 3.5807
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:52:00Z",
+                            "value": 3.5797
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:54:00Z",
+                            "value": 3.5787
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:56:00Z",
+                            "value": 3.5787
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:58:00Z",
+                            "value": 3.5787
+                        }
+                    ],
+                    "volume": [
+                        {
+                            "dateTime": "2023-07-12T14:00:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:15:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:30:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T14:45:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:00:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:15:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:30:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T15:45:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:00:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:15:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:30:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T16:45:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:00:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:15:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:30:00Z",
+                            "value": 0
+                        },
+                        {
+                            "dateTime": "2023-07-12T17:45:00Z",
+                            "value": 0
+                        }
+                    ]
+                }
+            ],
+            "ads": {
+                "top0": {
+                    "key": "/429892472/CED_TOP_0",
+                    "size": "[728, 90]",
+                    "div": "div-gpt-ad-1487022995851-0"
+                },
+                "skin": {
+                    "key": "/429892472/CED_DSK_SKIN",
+                    "size": "[1600, 1000]",
+                    "div": "div-gpt-ad-1656710058909-0"
+                },
+                "Plus300x250": {
+                    "key": "/21849154601,429892472/Ad.Plus-300x250",
+                    "size": "[[300, 250], [250, 250], [200, 200]]",
+                    "div": "Ad.Plus-300x250-1"
+                },
+                "Plus300x250_2": {
+                    "key": "/21849154601,429892472/Ad.Plus-300x250",
+                    "size": "[[300, 250], [250, 250], [200, 200], [300, 75], [120, 240], [180, 150], [240, 133], [300, 100]]",
+                    "div": "Ad.Plus-300x250-2"
+                },
+                "AdPlus300x600": {
+                    "key": "/21849154601,429892472/Ad.Plus-300x600",
+                    "size": "[[300, 600], [200, 446], [240, 400], [250, 250], [250, 360], [120, 600], [300, 250], [160, 600]]",
+                    "div": "Ad.Plus-300x600-1"
+                },
+                "AdPlus728x90": {
+                    "key": "/21849154601,429892472/Ad.Plus-728x90",
+                    "size": "[[728, 90], [468, 60], [220, 90], [300, 75]]",
+                    "div": "Ad.Plus-728x90-1"
+                },
+                "AdPlus970x250": {
+                    "key": "/21849154601,429892472/Ad.Plus-970x250",
+                    "size": "[[970, 250], [960, 90], [320, 250], [728, 90], [750, 200], [970, 90], [750, 100], [950, 90], [930, 180]]",
+                    "div": "Ad.Plus-970x250-1"
+                },
+                "AdPlus336x280": {
+                    "key": "/21849154601,429892472/Ad.Plus-336x280",
+                    "size": "[[336, 280], [200, 200], [320, 100], [240, 133], [300, 100], [120, 240], [180, 150], [320, 250], [250, 250], [300, 250], [300, 75]]",
+                    "div": "Ad.Plus-336x280-1"
+                },
+                "AdPlus120x600": {
+                    "key": "/21849154601,429892472/Ad.Plus-120x600",
+                    "size": "[[120, 600], [120, 240]]",
+                    "div": "Ad.Plus-120x600"
+                },
+                "AdPlus160x600": {
+                    "key": "/21849154601,429892472/Ad.Plus-160x600",
+                    "size": "[[160, 600], [120, 240], [120, 600]]",
+                    "div": "Ad.Plus-160x600-1"
+                },
+                "AdPlus320x100": {
+                    "key": "/21849154601,429892472/Ad.Plus-320x100",
+                    "size": "[[320, 100], [300, 50], [216, 54], [300, 75], [120, 90], [300, 100], [220, 90], [320, 50]]",
+                    "div": "Ad.Plus-320x100-1"
+                },
+                "AdPlus320x50": {
+                    "key": "/21849154601,429892472/Ad.Plus-320x50",
+                    "size": "[[320, 50], [88, 31], [168, 42], [216, 36], [168, 28], [292, 30], [120, 30], [300, 31], [300, 50]]",
+                    "div": "Ad.Plus-320x50-1"
+                },
+                "AdPlus300x100": {
+                    "key": "/21849154601,429892472/Ad.Plus-300x100",
+                    "size": "[[300, 100], [120, 90], [300, 50], [234, 60], [292, 30], [220, 90], [216, 54], [300, 75], [168, 42]]",
+                    "div": "Ad.Plus-300x100"
+                },
+                "AdPlus300x50": {
+                    "key": "/21849154601,429892472/Ad.Plus-300x50",
+                    "size": "[[300, 50], [292, 30], [300, 31], [120, 30], [216, 36], [168, 42]]",
+                    "div": "Ad.Plus-300x50-1"
+                },
+                "AdPlus250x250": {
+                    "key": "/21849154601,429892472/Ad.Plus-250x250",
+                    "size": "[[250, 250], [216, 54], [220, 90], [120, 240], [234, 60], [180, 150], [200, 200], [125, 125], [240, 133], [168, 42]]",
+                    "div": "Ad.Plus-250x250-1"
+                },
+                "AdPlusMultiPlex": {
+                    "key": "/21849154601,429892472/Ad.Plus-MultiPlex",
+                    "size": "[\"fluid\"]",
+                    "div": "Native-MultiPlex"
+                }
+            },
+            "videos": [
+                {
+                    "videos_id": "4",
+                    "title": "\u00bfEl d\u00f3lar latino est\u00e1 en Per\u00fa? \u00bfQu\u00e9 pasar\u00e1 en Abril y c\u00f3mo debo invertir mis soles?",
+                    "subtitle": "",
+                    "url": "BxWLro4BSfw"
+                },
+                {
+                    "videos_id": "3",
+                    "title": "El d\u00f3lar lleg\u00f3 a su valor M\u00c1S BAJO en lo que va del 2023 \u00bfPor qu\u00e9?",
+                    "subtitle": "",
+                    "url": "ZhJKfYUY9aw"
+                },
+                {
+                    "videos_id": "2",
+                    "title": "\u00bfCu\u00e1l es la diferencia entre compra y venta de d\u00f3lares?",
+                    "subtitle": "",
+                    "url": "-Cj72C2Gp3c"
+                },
+                {
+                    "videos_id": "1",
+                    "title": "\u00bfC\u00f3mo detectar billetes falsos?",
+                    "subtitle": "",
+                    "url": "pXCPBLCY4HU"
+                }
+            ],
+            "clever": true
+        },
+        "__N_SSG": true
+    },
+    "page": "/",
+    "query": {},
+    "buildId": "5TVw_rZdQfBx01IbSbkZ-",
+    "isFallback": false,
+    "gsp": true,
+    "customServer": true,
+    "scriptLoader": []
+}
